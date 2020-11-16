@@ -25,12 +25,6 @@ function HeaderComponent() {
                             <li className="nav-item">
                                 <a className="nav-link" href="#">All stocks</a>
                             </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#">Sign up</a>
-                            </li>
-                            <li className="nav-item active">
-                                <a className="nav-link" href="#">Sign in</a>
-                            </li>
                         </ul>
                     </div>
                 </div>
