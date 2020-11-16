@@ -29,9 +29,14 @@ function App() {
           <StockCardComponent2 />
           <StockCardComponent2 />
           <StockCardComponent2 />
+        </div>
+        <div className='row'>
+          <StockCardComponent2 />
+          <StockCardComponent2 />
+          <StockCardComponent2 />
+        </div>
           
 
-        </div>
       </div>
 
       <FooterComponent />
